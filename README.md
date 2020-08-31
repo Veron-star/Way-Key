@@ -22,3 +22,5 @@ OpenCage API
 
 Authors
 Chris Klinger, Veronica Lim, Nick Sword
+
+![](/waykey.PNG)
